@@ -1,5 +1,10 @@
-body{
-    background:#b19cd9; 
-    color:#6A2689;
-    font-family: "Open Sans", sans-serif;
+body {
+  background: #6ebae4;
+  color: black;
+  font-family: cursive;
+  align-items: center;
+}
+.adrita {
+  margin: auto;
+  justify-content: center;
 }
